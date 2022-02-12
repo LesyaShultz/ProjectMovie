@@ -1,0 +1,7 @@
+.item-name {
+    text-transform: capitalize;
+}
+
+.list-inline-item {
+    margin: 20px 20px 0 0;
+}
